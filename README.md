@@ -54,6 +54,18 @@ To install it, just use
 
 Pacstall will take care of installing all the dependencies an will set up viper4linux.
 
+**If not using pacstall**, download the `viper4linux_1.0_amd64.deb` file from this release.
+Install with:
+
+    sudo dpkg -i viper4linux_1.0_amd64.deb
+
+
+#### Automatic Installation (Debian/Ubuntu)
+
+You can also run the provided script for automatic build and install:
+
+    bash build_and_install.sh
+
 ## Manually
 
 Step 1:  
